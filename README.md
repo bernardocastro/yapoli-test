@@ -10,5 +10,5 @@ In this project I used:
 * React Router
 * Axios
 * LocalStorage
-* Material-ui 
+* Material-UI 
 
