@@ -1,0 +1,6 @@
+@media(max-width:600px) {
+	.image__list {
+		width: 100% !important;
+	}
+ }
+ 
